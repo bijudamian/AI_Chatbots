@@ -19,6 +19,7 @@ A progressive series of Python chatbot implementations — from a simple LLM wra
 | `01_Chatbot_with_history.py` | Multi-turn chatbot with conversation memory |
 | `02_rag_from_text.py` | RAG pipeline using plain text as knowledge source |
 | `03_rag_from_pdf.py` | RAG pipeline with PDF ingestion via document loaders |
+| `04_Image_Generator.py` | Generates Images using nano banana |
 
 ## Tech Stack
 
