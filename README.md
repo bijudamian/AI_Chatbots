@@ -57,6 +57,8 @@ python 03_rag_from_pdf.py
 02_rag_from_text.py          ← adds retrieval
       ↓
 03_rag_from_pdf.py           ← adds PDF support
+      ↓
+04_Image_Generator.py        ← can generate images 
 ```
 
 ## License

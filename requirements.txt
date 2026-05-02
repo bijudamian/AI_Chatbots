@@ -3,3 +3,4 @@ python-dotenv
 requests
 PyPDF2
 gradio
+streamlit
