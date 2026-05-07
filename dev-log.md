@@ -8,3 +8,5 @@ Running notes on ongoing development work.
 - refactored component structure for better reusability
 ### 2026-05-06
 - reviewed documentation and updated stale sections
+### 2026-05-07
+- improved form validation and user feedback
