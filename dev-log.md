@@ -10,3 +10,4 @@ Running notes on ongoing development work.
 - reviewed documentation and updated stale sections
 ### 2026-05-07
 - improved form validation and user feedback
+- refactored data fetching with better caching
