@@ -12,3 +12,5 @@ Running notes on ongoing development work.
 - improved form validation and user feedback
 - refactored data fetching with better caching
 - cleaned up git history and removed debug logs
+### 2026-05-08
+- updated CI/CD pipeline configuration
