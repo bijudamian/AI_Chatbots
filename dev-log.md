@@ -16,3 +16,4 @@ Running notes on ongoing development work.
 - updated CI/CD pipeline configuration
 ### 2026-05-09
 - refactored component structure for better reusability
+- improved code readability with better variable names
