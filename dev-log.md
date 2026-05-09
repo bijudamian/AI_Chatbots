@@ -14,3 +14,5 @@ Running notes on ongoing development work.
 - cleaned up git history and removed debug logs
 ### 2026-05-08
 - updated CI/CD pipeline configuration
+### 2026-05-09
+- refactored component structure for better reusability
