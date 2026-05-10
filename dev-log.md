@@ -17,3 +17,5 @@ Running notes on ongoing development work.
 ### 2026-05-09
 - refactored component structure for better reusability
 - improved code readability with better variable names
+### 2026-05-10
+- improved global state management logic
