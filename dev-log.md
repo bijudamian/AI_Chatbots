@@ -25,3 +25,4 @@ Running notes on ongoing development work.
 - reviewed documentation and updated stale sections
 ### 2026-05-14
 - improved global state management logic
+- improved form validation and user feedback
