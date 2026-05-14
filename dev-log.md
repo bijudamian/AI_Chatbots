@@ -23,3 +23,5 @@ Running notes on ongoing development work.
 - improved code readability with better variable names
 ### 2026-05-12
 - reviewed documentation and updated stale sections
+### 2026-05-14
+- improved global state management logic
