@@ -26,3 +26,5 @@ Running notes on ongoing development work.
 ### 2026-05-14
 - improved global state management logic
 - improved form validation and user feedback
+### 2026-05-18
+- updated API endpoints to handle edge cases
