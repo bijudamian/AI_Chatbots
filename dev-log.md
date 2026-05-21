@@ -30,3 +30,5 @@ Running notes on ongoing development work.
 - updated API endpoints to handle edge cases
 ### 2026-05-20
 - added loading state and skeleton screens
+### 2026-05-21
+- improved code readability with better variable names
